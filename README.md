@@ -1,0 +1,2 @@
+# schoolc
+Školský kurz C++
