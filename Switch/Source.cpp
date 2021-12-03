@@ -28,8 +28,10 @@ int main() {
 		break;
 	case 3:
 		cout << "Nananananaaaa." << endl;
+		break;
 	default:
 		cout << "Toto slovo nepoznam." << endl;
+		break;
 	}
 
 	return 0;
