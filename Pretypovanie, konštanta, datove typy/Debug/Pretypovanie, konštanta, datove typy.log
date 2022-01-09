@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\matus\Desktop\Škola\Programovanie\CODE\Pretypovanie, konštanta, datove typy\Source.cpp(8,16): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\matus\Desktop\Škola\Programovanie\CODE\Pretypovanie, konštanta, datove typy\Source.cpp(13,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Pretypovanie, konštanta, datove typy.vcxproj -> C:\Users\matus\Desktop\Škola\Programovanie\CODE\Pretypovanie, konštanta, datove typy\Debug\Pretypovanie, konštanta, datove typy.exe
