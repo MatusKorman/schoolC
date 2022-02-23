@@ -60,7 +60,7 @@ int main() {
 			cout << "a - ano  ////  nn - nie" << endl;
 			char odpoved;
 			cin >> odpoved;
-			int start = odpoved;
+			i = odpoved;
 
 		}
 	}
