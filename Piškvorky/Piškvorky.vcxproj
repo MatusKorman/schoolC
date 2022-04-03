@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3930e12f-9a3e-4739-9dd5-8b7790c28746}</ProjectGuid>
+    <ProjectGuid>{465a15a0-a682-4ec2-a312-e5e3890449ae}</ProjectGuid>
     <RootNamespace>Piškvorky</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
