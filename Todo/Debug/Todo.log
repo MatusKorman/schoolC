@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\z20ist09\Desktop\Todo\Source.cpp(31,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\z20ist09\Desktop\Todo\Source.cpp(34,13): warning C4305: '=': truncation from 'double' to 'float'
+  Todo.vcxproj -> C:\Users\z20ist09\Desktop\Todo\Debug\Todo.exe
